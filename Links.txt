@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=eKKc0d7kzww-Synchronization
+
+https://www.youtube.com/watch?v=7aF0q7NfwfA-Critical Section
+
+https://www.youtube.com/watch?v=s8_ZxcG7Jco-Critical section real time example
+
+https://www.youtube.com/watch?v=PQ5aK5wLCQE-Semaphore examples
